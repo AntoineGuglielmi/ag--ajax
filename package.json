@@ -1,0 +1,22 @@
+{
+  "name": "ag-ajax",
+  "version": "1.0.0",
+  "description": "ajax function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoineGuglielmi/ag-ajax.git"
+  },
+  "keywords": [
+    "ajax"
+  ],
+  "author": "AntoineGuglielmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntoineGuglielmi/ag-ajax/issues"
+  },
+  "homepage": "https://github.com/AntoineGuglielmi/ag-ajax#readme"
+}
