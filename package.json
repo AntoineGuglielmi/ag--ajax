@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AntoineGuglielmi/ag-ajax.git"
+    "url": "git+https://github.com/AntoineGuglielmi/ag--ajax.git"
   },
   "keywords": [
     "Ajax"
@@ -16,7 +16,7 @@
   "author": "AntoineGuglielmi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AntoineGuglielmi/ag-ajax/issues"
+    "url": "https://github.com/AntoineGuglielmi/ag--ajax/issues"
   },
-  "homepage": "https://github.com/AntoineGuglielmi/ag-ajax#readme"
+  "homepage": "https://github.com/AntoineGuglielmi/ag--ajax#readme"
 }
