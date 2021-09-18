@@ -18,7 +18,7 @@ Suppose that we have a directories architecture like the following:
 js
 |--afterBrowserify.js
 |--beforeBrowserify.js
-index.php
+index.html
 test.php
 ```
 
@@ -57,7 +57,7 @@ the ajax function takes 2 parameters:
 ```
 
 ```html
-<!-- index.php -->
+<!-- index.html -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -73,7 +73,6 @@ the ajax function takes 2 parameters:
 ```php
 // test.php
 <?php
-
 echo 'Hello, ajax!';
 ```
 
