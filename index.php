@@ -8,6 +8,6 @@
 </head>
 <body>
     <div id="root"></div>
-    <script src="dist/net.js"></script>
+    <script src="js/afterBrowserify.js"></script>
 </body>
 </html>
