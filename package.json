@@ -1,6 +1,6 @@
 {
-  "name": "ag-ajax",
-  "version": "1.0.0",
+  "name": "ag--ajax",
+  "version": "1.0.2",
   "description": "Ajax function",
   "main": "ag--ajax.js",
   "scripts": {
